@@ -1,3 +1,3 @@
-module.exports =  {
-    ACCESS_TOKEN_SECRET : "EMMA123",
+module.exports = {
+    ACCESS_TOKEN_SECRET: "EMMA123",
 }
